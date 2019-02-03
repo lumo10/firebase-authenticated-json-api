@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "playground-1547070987702"
+    "default": "playground-1547070987702",
+    "playground": "playground-1547070987702"
   }
 }
